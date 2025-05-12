@@ -14,7 +14,7 @@ This project uses R to analyze depression patterns among Grade 12 students using
 
 ## 🛠️ Tools
 - R Language
-- ggplot2, dplyr, base plotting
+- base plotting
 
 ## 📈 Key Insights
 - Academic pressure and sleep strongly impact depression levels
