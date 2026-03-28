@@ -44,5 +44,5 @@ Note: The dataset file (`student_depression_dataset.csv`) can be downloaded from
 ## Disclaimer
 This project is for educational and analytical purposes only. The findings should not be treated as clinical conclusions.
 
-Author: Visura 
-Co-authored-by: Chamathka | Sachila | Kaushal
+- Author: Visura 
+- Co-authored-by: Chamathka | Sachila | Kaushal
